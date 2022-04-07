@@ -1,4 +1,4 @@
-//Código produzido por Arthue Eduardo Silva
+//Código produzido por Arthur Eduardo Silva
 
 import java.util.Scanner;
 
